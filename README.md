@@ -30,7 +30,4 @@ Features:
 - IDE: PyCharm
 - Language: Python 3.x
 
-## ▶️ How to Run
 
-```bash
-python main.py
