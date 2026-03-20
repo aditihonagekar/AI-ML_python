@@ -25,6 +25,11 @@ Features:
 - Store data in a list
 - Display user data
 
+## 🛠️ Development Environment
+
+- IDE: PyCharm
+- Language: Python 3.x
+
 ## ▶️ How to Run
 
 ```bash
